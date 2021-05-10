@@ -6,4 +6,4 @@ layout: home
 ---
 <img src="https://songtxiang.goatcounter.com/counter//.svg" alt="Views" style="float: right" >
 
-<hr data-content="期望给你带来些思考！">
+<hr data-content="happy coding!">
