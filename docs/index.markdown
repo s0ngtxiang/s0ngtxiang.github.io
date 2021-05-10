@@ -4,14 +4,4 @@
 
 layout: home
 ---
-<script>
-    var t = setInterval(function() {
-        if (window.goatcounter && window.goatcounter.visit_count) {
-            clearInterval(t)
-            window.goatcounter.visit_count({append: 'body'})
-        }
-    }, 100)
-</script>
-<script data-goatcounter="https://songtxiang.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-
+<img src="https://songtxiang.goatcounter.com/counter//.png" alt="Views">
