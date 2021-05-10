@@ -4,4 +4,6 @@
 
 layout: home
 ---
-<img src="https://songtxiang.goatcounter.com/counter//.png" alt="Views">
+<img src="https://songtxiang.goatcounter.com/counter//.svg" alt="Views" style="float: right" >
+
+<hr data-content="期望给你带来些思考！">
