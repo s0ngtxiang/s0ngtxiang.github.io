@@ -26,6 +26,15 @@ entries:
           show_more_text: sicp more...
           show_more_url: categories/LMCS/sicp-archive.html
 
+    entries:
+      - title: CS61A
+        post_list:
+          category: cs61a
+          limit: 10
+          show_more: true
+          show_more_text: cs61a more...
+          show_more_url: categories/LMCS/cs61a.html
+
 
   - title: WORLD
     entries:
