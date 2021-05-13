@@ -3,7 +3,6 @@ layout: post
 date: 2021-05-13 20:00:06
 category: cs61a
 ---
-# Introduction
 
 ## What is Computer Science?
 The study of:
